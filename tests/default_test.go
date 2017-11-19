@@ -6,7 +6,7 @@ import (
 	"testing"
 	"runtime"
 	"path/filepath"
-	_ "cheneylew.com/cheneylew.com/beego_api/routers"
+	_ "github.com/cheneylew/beego_api/routers"
 
 	"github.com/astaxie/beego"
 	. "github.com/smartystreets/goconvey/convey"

@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"cheneylew.com/cheneylew.com/beego_api/controllers"
+	"github.com/cheneylew/beego_api/controllers"
 	"github.com/astaxie/beego"
 )
 
