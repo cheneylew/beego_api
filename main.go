@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "cheneylew.com/cheneylew.com/beego_api/routers"
+	_ "github.com/cheneylew/beego_api/routers"
 	"github.com/astaxie/beego"
 )
 
