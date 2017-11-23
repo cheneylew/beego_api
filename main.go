@@ -15,6 +15,7 @@ func main() {
 	}
 
 
+
 	fmt.Println(utils.SelfPath())
 	fmt.Println(colors.BlueBold("this is you name!"))
 	// fmt.Println(MY_TPL)
